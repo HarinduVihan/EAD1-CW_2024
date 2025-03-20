@@ -103,7 +103,8 @@ The data operation can be canceled by pressing cancel key.
 
  Deleting unnecessary customer details from database. 
  
-9. Order.java 
+9. Order.java
+    
 ![image](https://github.com/user-attachments/assets/489ed02a-220b-4dfd-91e7-899b85a24673)
 
 Placing orders and storing data to the database. Can used to print the invoice. 
@@ -115,7 +116,7 @@ calculated and will be displayed in the jTable. After saving the details a invoi
 printed.  
  
 10. Register.java
-11. 
+    
 ![image](https://github.com/user-attachments/assets/348a46a8-cc24-456e-b0b9-3fb7a6b980cc)
 
  This is the interface Creating user accounts for users. 

@@ -29,10 +29,8 @@ implementing user input validations.
    
 ## Graphical User Interfaces (GUI) 
 
-1. Userlogin.java 
- 
-1. Userlogin.java 
- 
+1. Userlogin.java
+   
  ![image](https://github.com/user-attachments/assets/14732346-0b12-443b-9659-908162afac4c)
       
 Admin and users can login to the system using this interface by entering the correct 
@@ -42,7 +40,8 @@ Check box will check whether the username and password belongs to the administra
 a user and will direct to the relevant interface.
 
 2.  Menu.java
-  ![image](https://github.com/user-attachments/assets/60146520-5bb7-446f-9129-297f00632b60)
+   
+![image](https://github.com/user-attachments/assets/60146520-5bb7-446f-9129-297f00632b60)
  
 The menu can be used to navigate through the system while viewing the current 
 records that are stored in the database. 
